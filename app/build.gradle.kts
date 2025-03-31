@@ -68,5 +68,5 @@ dependencies {
     implementation("androidx.camera:camera-extensions:$cameraxVersion")
 
     implementation("androidx.compose.material:material-icons-extended:1.7.8")
-
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
 }
